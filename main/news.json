@@ -1,44 +1,42 @@
-{
-  "news": [
-    {
-      "title": "Harar Jugol Heritage Restoration",
-      "description": "UNESCO supports restoration of Harar’s ancient walls and gates.",
-      "imageUrl": "https://example.com/harar.jpg"
-    },
-    {
-      "title": "Lalibela Rock-Hewn Churches Preservation",
-      "description": "Efforts underway to protect Lalibela’s iconic monolithic churches from erosion.",
-      "imageUrl": "https://example.com/lalibela.jpg"
-    },
-    {
-      "title": "Gondar Castle Renovation",
-      "description": "Royal Enclosure in Gondar receives new conservation funding.",
-      "imageUrl": "https://example.com/gondar.jpg"
-    },
-    {
-      "title": "Axum Obelisks Cultural Significance",
-      "description": "Archaeologists highlight Axum’s ancient obelisks as symbols of Ethiopian heritage.",
-      "imageUrl": "https://example.com/axum.jpg"
-    },
-    {
-      "title": "Bale Mountains Biodiversity Spotlight",
-      "description": "Rare wildlife in Bale Mountains National Park attracts global researchers.",
-      "imageUrl": "https://example.com/bale.jpg"
-    },
-    {
-      "title": "Danakil Depression Tourism Growth",
-      "description": "Colorful salt flats and lava lakes in Danakil draw adventurous travelers.",
-      "imageUrl": "https://example.com/danakil.jpg"
-    },
-    {
-      "title": "Simien Mountains Trekking Routes",
-      "description": "New trekking routes in Simien Mountains open for eco-tourism.",
-      "imageUrl": "https://example.com/simien.jpg"
-    },
-    {
-      "title": "Omo Valley Cultural Exchange",
-      "description": "Omo Valley tribes showcase traditions in international cultural festivals.",
-      "imageUrl": "https://example.com/omo.jpg"
-    }
-  ]
-}
+[
+  {
+    "title": "Harar Jugol Heritage Restoration",
+    "description": "UNESCO supports restoration of Harar’s ancient walls and gates.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/harar.jpg"
+  },
+  {
+    "title": "Lalibela Rock-Hewn Churches Preservation",
+    "description": "Efforts underway to protect Lalibela’s iconic monolithic churches from erosion.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/lalibela.jpg"
+  },
+  {
+    "title": "Gondar Castle Renovation",
+    "description": "Royal Enclosure in Gondar receives new conservation funding.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/gondar.jpg"
+  },
+  {
+    "title": "Axum Obelisks Cultural Significance",
+    "description": "Archaeologists highlight Axum’s ancient obelisks as symbols of Ethiopian heritage.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/axum.jpg"
+  },
+  {
+    "title": "Bale Mountains National Park Conservation",
+    "description": "Efforts to protect Ethiopian wolves and the Harenna Forest ecosystem.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/bale.jpg"
+  },
+  {
+    "title": "Danakil Depression Exploration",
+    "description": "Colorful sulfur springs and lava lakes attract global attention.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/danakil.jpg"
+  },
+  {
+    "title": "Simien Mountains Trekking",
+    "description": "Tourists flock to rugged cliffs and Gelada baboons in Simien Mountains.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/simien.jpg"
+  },
+  {
+    "title": "Omo Valley Cultural Festival",
+    "description": "Celebrating Ethiopia’s diverse tribal heritage with traditional attire and ceremonies.",
+    "imageUrl": "https://raw.githubusercontent.com/degifetise/MADGuzoEthiopiaMobApp/master/images/omo.jpg"
+  }
+]
